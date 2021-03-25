@@ -1,0 +1,12 @@
+{
+  "name": "App_Bank",
+  "displayName": "App_Bank",
+  "expo": {
+    "name": "App_Bank",
+    "slug": "App_Bank",
+    "version": "1.0.0",
+    "assetBundlePatterns": [
+      "**/*"
+    ]
+  }
+}
